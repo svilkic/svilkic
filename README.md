@@ -1,5 +1,5 @@
 <div>
-<img src="https://i.ibb.co/vmTjqxw/1x1.png" alt="profile image" width="400" align="right"/>
+<!-- <img src="https://i.ibb.co/vmTjqxw/1x1.png" alt="profile image" width="400" align="right"/> -->
 </div>
 <br/>
 <h1 align="left">Hello There my name is Aleksa</h1>
