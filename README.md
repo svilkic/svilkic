@@ -1,7 +1,3 @@
-<div>
-<!-- <img src="https://i.ibb.co/vmTjqxw/1x1.png" alt="profile image" width="400" align="right"/> -->
-</div>
-<br/>
 <h1 align="left">Hello There my name is Aleksa</h1>
 <h3 align="left">I'm front-end developer with more than 3 years of experience</h3>
 
